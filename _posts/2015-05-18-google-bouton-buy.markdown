@@ -6,7 +6,7 @@ categories:
 excerpt: Le bouton « buy » de Google bientôt sur les mobiles
 tags: [Google, Ebay, Amazon]
 image:
-  feature:
+  feature: background.jpg
 date: 2015-05-18T21:52:10+02:00
 ---
 

@@ -6,7 +6,7 @@ categories:
 excerpt: What do you know about PHP's Frameworks ?
 tags: []
 image:
-  feature:
+  feature: background.jpg
 date: 2015-05-28T21:58:40+02:00
 ---
 

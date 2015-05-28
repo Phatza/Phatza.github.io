@@ -6,7 +6,7 @@ categories:
 excerpt: What's the best for you ?? 
 tags: []
 image:
-  feature:
+  feature: background.jpg
 date: 2015-05-22T13:41:20+02:00
 ---
 

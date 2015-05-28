@@ -6,7 +6,7 @@ categories:
 excerpt: Des pirates brésiliens ont trouvé le moyen d'installer des jeux hackés sur le disque dur de la PS4 sans que 			Sony puisse détecter l'opération sur le Playstation Network.
 tags: [PS4]
 image:
-  feature:
+  feature: background.jpg
 date: 2015-05-18T21:09:36+02:00
 ---
 
