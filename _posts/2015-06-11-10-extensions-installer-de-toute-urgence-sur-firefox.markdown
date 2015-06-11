@@ -11,12 +11,12 @@ date: 2015-06-11T18:18:51+02:00
 ---
 <figure>
 	<img src="../images/firefox1/firefox1.jpg" alt="">
-	Source :<a href="http://www.presse-citron.net/10-extensions-a-installer-de-toute-urgence-sur-firefox/"> Presse-citron</a>
+	Source :<a href="http://www.presse-citron.net/10-extensions-a-installer-de-toute-urgence-sur-firefox/" target="blank"> Presse-citron</a>
 </figure>
 
 <strong>Après ça, c’est sûr, vous n’allez plus reconnaître votre navigateur web préféré.</strong>
 
-<br>Chrome règne en maitre absolu dans le (petit) monde des navigateurs web. Selon <a href="http://gs.statcounter.com/">StatCounter</a>, il totaliserait à l’heure actuelle plus de 49% de parts de marché dans le monde, contre 18% pour Internet Explorer, 16% pour Firefox et 10% pour Safari. La tendance est exactement la même en Europe, même si le navigateur de Mozilla s’en sort un peu mieux que ses concurrents.
+<br>Chrome règne en maitre absolu dans le (petit) monde des navigateurs web. Selon <a href="http://gs.statcounter.com/" target="blank">StatCounter</a>, il totaliserait à l’heure actuelle plus de 49% de parts de marché dans le monde, contre 18% pour Internet Explorer, 16% pour Firefox et 10% pour Safari. La tendance est exactement la même en Europe, même si le navigateur de Mozilla s’en sort un peu mieux que ses concurrents.
 
 <br>Mais voilà, tous les internautes ne suivent pas forcément le troupeau et beaucoup de gens utilisent Firefox au quotidien. Si c’est votre cas, alors c’est votre jour de chance car cet article va lister dix des meilleures extensions disponibles pour le petit butineur.
 
@@ -32,7 +32,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Ah, et ça fonctionne avec les sites, bien sûr, mais aussi avec les plateformes spécialisées et même avec les réseaux sociaux.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/video-downloadhelper/">Télécharger Video DownloadHelper</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/video-downloadhelper/" target="blank">Télécharger Video DownloadHelper</a>
 	</li>
 	<li>
 		<h2>OmniSidebar</h2>
@@ -43,7 +43,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Enfin, à gauche ou à droite, c’est à vous de voir. Et le plus beau, dans l’histoire, c’est que l’extension intègre aussi un mini panneau pour gagner un maximum de place.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/omnisidebar/?src=search">Télécharger OmniSidebar</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/omnisidebar/?src=search" target="blank">Télécharger OmniSidebar</a>
 	</li>
 	<li>
 		<h2>S3.Google Translator</h2>
@@ -54,7 +54,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>S3.Google Translator propose exactement la même chose mais il va un peu plus loin puisqu’il va aussi vous permettre de traduire le contenu de votre presse papier ou même des mots saisis à l’aide de votre clavier. Si vous surfez souvent sur des sites étrangers et dont vous ne maitrisez pas la langue, alors c’est clairement l’outil qu’il vous faut.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/s3google-translator/?src=search">Télécharger S3.Google Translator</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/s3google-translator/?src=search" target="blank">Télécharger S3.Google Translator</a>
 	</li>
 	<li>
 		<h2>AnonymoX et Ghostery</h2>
@@ -67,8 +67,8 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Le second est capable de détecter et de désactiver tous les mouchards que l’on trouve sur les sites. Cela vaut pour les scripts de Facebook mais aussi pour tous les scripts publicitaires et pour les programmes mis au point par les sociétés spécialisées dans le tracking.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/anonymox/?src=search">Télécharger AnonymoX</a>
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/ghostery/">Télécharger Ghostery</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/anonymox/?src=search" target="blank">Télécharger AnonymoX</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/ghostery/" target="blank">Télécharger Ghostery</a>
 	</li>
 	<li>
 		<h2>YouTube High Definition</h2>
@@ -79,7 +79,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Elle va effectivement vous permettre de personnaliser le comportement de la plateforme et vous pourrez par exemple définir la qualité par défaut des vidéos, choisir leur taille et même désactiver les commentaires, tout ça en cliquant sur le bouton présent dans la barre d’outils. Magnifique.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/youtube-high-definition/?src=search">Télécharger YouTube High Definition</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/youtube-high-definition/?src=search" target="blank">Télécharger YouTube High Definition</a>
 	</li>
 	<li>
 		<h2>Stylish</h2>
@@ -90,7 +90,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Pas de doute, Stylish est fait pour vous. Enfin à moins que vous ne soyez fait pour lui. Grâce à cette extension, vous allez effectivement pouvoir modifier l’aspect de n’importe quel site à la volée, en quelques lignes de code. Et si vous ne maitrisez pas les arcanes du développement, alors vous pourrez toujours vous appuyer sur les scripts des autres internautes.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/stylish/?src=search">Télécharger Stylish</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/stylish/?src=search" target="blank">Télécharger Stylish</a>
 	</li>
 	<li>
 		<h2>Nimbus Screen Capture</h2>
@@ -101,7 +101,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Et comme un bonheur ne vient jamais seul, l’outil propose même un éditeur rapide qui vous permettra de retoucher vos images ou de les annoter avant de les télécharger. Vous retrouverez aussi des fonctions pour redimensionner ou recadrer la capture à la volée.
 
-		<br><a href="https://addons.mozilla.org/fR/firefox/addon/nimbus-screenshot/?src=cb-dl-featured">Télécharger Nimbus Screen Capture</a>
+		<br><a href="https://addons.mozilla.org/fR/firefox/addon/nimbus-screenshot/?src=cb-dl-featured" target="blank">Télécharger Nimbus Screen Capture</a>
 	</li>
 	<li>
 		<h2>QuickWiki</h2>
@@ -112,7 +112,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Si c’est votre cas, alors QuickWiki risque de vous intéresser quelque chose de bien. Grâce à cette extension, il suffira effectivement de sélectionner un terme et de balancer un clic droit dans la foulée pour lancer une recherche dans l’encyclopédie. Ah, et elle intègre même le Wiktionary.
 
-		<br><a href="https://addons.mozilla.org/fr/firefox/addon/quickwiki/?src=search">Télécharger QuickWiki</a>
+		<br><a href="https://addons.mozilla.org/fr/firefox/addon/quickwiki/?src=search" target="blank">Télécharger QuickWiki</a>
 	</li>
 	<li>
 		<h2>ReminderFox</h2>
@@ -123,7 +123,7 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>Il va effectivement vous permettre de créer des rappels et des listes de tâches sans avoir besoin de sortir du navigateur. Vous n’aurez effectivement qu’à cliquer sur le bouton correspondant pour afficher une fenêtre volante et pour créer un nouvel élément dans la foulée. Attention cependant car l’outil ne va évidemment pas aussi loin qu’un OneNote ou qu’un Wunderlist.
 
-		<br><a href="https://addons.mozilla.org/fR/firefox/addon/reminderfox/?src=cb-dl-featured">Télécharger ReminderFox</a>
+		<br><a href="https://addons.mozilla.org/fR/firefox/addon/reminderfox/?src=cb-dl-featured" target="blank">Télécharger ReminderFox</a>
 	</li>
 	<li>
 		<h2>OneTab</h2>
@@ -134,6 +134,6 @@ date: 2015-06-11T18:18:51+02:00
 
 		<br>OneTab va vous permettre de regrouper toutes les pages ouvertes dans un seul onglet. Elles seront présentées sous la forme d’une liste et il vous suffira alors de cliquer sur l’élément de votre choix pour l’ouvrir. Vous trouverez aussi des liens pour restaurer rapidement tous les onglets, ou même pour les supprimer et pour les partager.
 
-		<br><a href="https://addons.mozilla.org/fR/firefox/addon/onetab/?src=search">Télécharger OneTab</a>
+		<br><a href="https://addons.mozilla.org/fR/firefox/addon/onetab/?src=search" target="blank">Télécharger OneTab</a>
 	</li>
 </ol>
