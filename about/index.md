@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About the author
-tags: []
+tags: [BricePhatza, Phatza, blog, jekyll, ruby, press, author, about]
 modified:
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature: sample-image-5.jpg
   credit: 
   creditlink: 
 ---

@@ -4,7 +4,7 @@ title: {{ title }}
 modified:
 categories: {{ dir }}
 excerpt:
-tags: []
+tags: [post, blog, article, press, news, veille, informatique, web, software, hardware, logiciel]
 image:
   feature:
 ---
