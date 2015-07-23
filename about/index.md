@@ -10,6 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
+<hr>
 
 Hi guys ! I'm currently learning programming at Simplonmars, Centrale-Marseille and I'm glad to introduce you my first blog. Actually, I don't wanna write my own posts, just share some articles I enjoyed read. By the way, I'm French so .. posts will be in English but also in French !
 <strong>Let's get read and learn !</strong>
