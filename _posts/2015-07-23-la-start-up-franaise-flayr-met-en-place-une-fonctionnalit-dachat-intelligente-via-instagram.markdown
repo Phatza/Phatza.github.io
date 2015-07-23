@@ -13,7 +13,7 @@ date: 2015-07-23T13:19:12+02:00
 <hr>
 
 <figure>
-	<img src="../images/flayr/flayr.jpg">
+	<img src="images/flayr/flayr.jpg" alt="">
 	Source: <a href="http://www.presse-citron.net/il-est-maintenant-possible-de-faire-son-shopping-en-likant-des-photos-sur-instagram/"><small>presse-citron</small></a>
 </figure>
 
@@ -35,7 +35,7 @@ Vous cliquez sur la notification et vous voilà face à une liste des éléments
 C’est simple et rapide.</p>
 
 <figure>
-	<img src="../images/flayr/flayr-instagram.jpg">
+	<img src="../images/flayr/flayr-instagram.jpg" alt="">
 </figure>
 
 <h3>Dans les coulisses de cette fonctionnalité</h3>
