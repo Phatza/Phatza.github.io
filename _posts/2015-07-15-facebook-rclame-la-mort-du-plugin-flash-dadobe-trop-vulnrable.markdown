@@ -3,6 +3,7 @@ layout: post
 title: "Facebook Réclame La Mort Du Plugin Flash d’Adobe Trop Vulnérable"
 modified:
 categories: 
+comments: true
 excerpt: Les failles de sécurité à répétition du plugin Flash ont eu raison des nerfs du chef de sécurité de Facebook qui réclame la disparition du plugin d'Adobe. C'est un tweet qui a mis le feu aux poudres. 
 tags: [post, blog, article, press, news, veille, informatique, web, software, hardware, logiciel, facebook, adobe, flash, geek, actualité, actu, fatza, brice, phatza, mort, sécurité, youtube, mozilla]
 image:

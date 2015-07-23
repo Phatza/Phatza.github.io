@@ -3,8 +3,9 @@ layout: post
 title: "Firefox Version 38"
 modified:
 categories: 
+comments: true
 excerpt: La Fondation Mozilla vient de mettre à la disposition des internautes la dernière mise à jour du navigateur Firefox. Dans sa version la plus récente, le navigateur se voit greffer un module Adobe de prise en charge des DRM.
-tags: [firefox,browser,DRM]
+tags: [firefox,browser,DRM, navigateur, web, internet, mozilla, chrome, google, intranet, extranet, safari, oracle, chromium, duckduckgo]
 image:
   feature: 
 date: 2015-05-16T21:12:23+02:00

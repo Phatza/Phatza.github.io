@@ -3,8 +3,9 @@ layout: post
 title: "Illustrator vs Photoshop"
 modified:
 categories: 
+comments: true
 excerpt: What's the best for you ?? 
-tags: []
+tags: [Illustrator, Gimp, Photoshop, Adobe, graphisme, design, photo, ux, ui, software, soft, 3D]
 image:
   feature: 
 date: 2015-05-22T13:41:20+02:00

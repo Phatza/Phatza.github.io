@@ -3,6 +3,7 @@ layout: post
 title: "YouTube Gaming : Google a Pensé Aux Joueurs Et Se Frotte à Twitch"
 modified:
 categories: 
+comments: true
 excerpt: Google veut créer une vraie communauté du jeu vidéo
 tags: [google, youtube, twitch, amazon, youtubegaming]
 image:

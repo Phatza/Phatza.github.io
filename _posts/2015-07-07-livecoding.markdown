@@ -3,6 +3,7 @@ layout: post
 title: "LiveCoding"
 modified:
 categories: 
+comments: true
 excerpt: LiveCoding – Le Twitch des développeurs
 tags: [post, blog, article, press, news, veille, informatique, web, software, hardware, logiciel, livecoding, twitch]
 image:
