@@ -2,7 +2,7 @@
 layout: post
 title: "Google: Bouton BUY"
 modified:
-categories: news
+categories: 
 comments: true
 excerpt: Le bouton « buy » de Google bientôt sur les mobiles
 tags: [Google, Ebay, Amazon, cart, buypass]

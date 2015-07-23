@@ -2,7 +2,7 @@
 layout: post
 title: "Pas De Twitter, Pas De Master : La Décision D’une Université"
 modified:
-categories: news
+categories: 
 comments: true
 excerpt: Un étudiant angevin s'est vu refuser l'entrée en Master 2 parce qu'il n'a pas de compte Twitter ni Linkedin. Il a porté l'affaire au tribunal qui a suspendu la décision de l'université. 
 tags: [post, blog, article, press, news, veille, informatique, web, software, hardware, logiciel, twitter, réseau social, social network, nantes, france, université, mastère 2, communication, tribunal, information, technologies, phatza, brice, fatza, actualité, geek, actu, begeek, études, linkedin, master, marketing, angers, affaires]

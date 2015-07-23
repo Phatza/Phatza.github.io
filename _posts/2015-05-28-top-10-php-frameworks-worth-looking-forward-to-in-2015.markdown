@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 PHP Frameworks Worth Looking Forward to in 2015"
 modified:
-categories: news
+categories: 
 comments: true
 excerpt: What do you know about PHP's Frameworks ?
 tags: [CakePHP, Laravel, Phalcon, Symfony2, Codeigniter, Yii, Aura, Zend, FlightPHP, FuelPHP, PHP, Frameworks]

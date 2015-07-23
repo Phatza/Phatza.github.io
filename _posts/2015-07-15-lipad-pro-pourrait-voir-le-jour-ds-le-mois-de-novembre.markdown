@@ -2,7 +2,7 @@
 layout: post
 title: "L’iPad Pro Pourrait Voir Le Jour Dès Le Mois De Novembre"
 modified:
-categories: news
+categories: 
 comments: true
 excerpt: Rappelons que l’iPad Pro devrait être doté d’un écran de 12,9 pouces, ce qui en ferait la tablette la plus grande.
 tags: [post, blog, article, press, news, veille, informatique, web, software, hardware, logiciel, apple, ipad, iphone, 6, 6 plus, 6s, 6s plus, mac, steve jobs, ipad pro, plus grand ipad, 12,6 pouces]

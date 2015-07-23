@@ -2,7 +2,7 @@
 layout: post
 title: "La Start-up Française Flayr Met en Place Une Fonctionnalité D’achat Intelligente via Instagram"
 modified:
-categories: news
+categories: 
 comments: true
 excerpt: Il est maintenant possible de faire son shopping en likant des photos sur Instagram
 tags: [post, blog, article, press, news, veille, informatique, web, software, hardware, logiciel, startup, startup weekend, Flayr, france, accelerateur, accompagnement, vente, achat, instagram, fonctionnalité, intelligence, digital, numerique, incubateur]
@@ -13,7 +13,7 @@ date: 2015-07-23T13:19:12+02:00
 <hr>
 
 <figure>
-	<img src="images/flayr/flayr.jpg" alt="">
+	<img src="../images/flayr/flayr.jpg" alt="">
 	Source: <a href="http://www.presse-citron.net/il-est-maintenant-possible-de-faire-son-shopping-en-likant-des-photos-sur-instagram/"><small>presse-citron</small></a>
 </figure>
 
