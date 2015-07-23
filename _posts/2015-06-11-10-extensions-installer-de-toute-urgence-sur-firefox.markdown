@@ -2,7 +2,7 @@
 layout: post
 title: "10 Extensions à Installer De Toute Urgence Sur Firefox"
 modified:
-categories: 
+categories: news
 comments: true
 excerpt: Après ça, c’est sûr, vous n’allez plus reconnaître votre navigateur web préféré.
 tags: [Firefox, extensions, plugins]

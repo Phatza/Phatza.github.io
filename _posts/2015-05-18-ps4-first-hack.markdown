@@ -2,7 +2,7 @@
 layout: post
 title: "PS4 : FIRST HACK"
 modified:
-categories: 
+categories: news
 comments: true
 excerpt: Des pirates brésiliens ont trouvé le moyen d'installer des jeux hackés sur le disque dur de la PS4 sans que 			Sony puisse détecter l'opération sur le Playstation Network.
 tags: [PS4, gaming, console, Playstation, jeux videos]
